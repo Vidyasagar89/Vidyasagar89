@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Vidyasagar 👋
+
+I'm a **Front End Developer** with a passion for crafting seamless and intuitive user experiences. My expertise lies in modern JavaScript frameworks and state management libraries, enabling me to deliver robust and scalable web applications.
+
+---
+
+### 🛠️ Tech Stack
+- **Frameworks:** Vue.js, React, Angular
+- **State Management:** Redux, Pinia
+
+---
+
+### 💡 Work Philosophy
+> *I prioritize building user interfaces that are user-centric and intuitive.*
+
+---
+
+### 🌱 Fun Facts
+- I love taking walks in nature 🌳
+- Biking is my favorite way to explore 🚴‍♂️
+
+---
+
+<!-- Optionally, add your favorite projects or social links here -->
 
 <!--
-**Vidyasagar89/Vidyasagar89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects
+- [Project Name](project-link) — Short description.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌐 Connect with me
+- [LinkedIn](your-linkedin-url)
+- [Twitter](your-twitter-url)
 -->
